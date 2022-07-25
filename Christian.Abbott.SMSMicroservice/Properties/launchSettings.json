@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Christian.Abbott.SMSMicroservice": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
